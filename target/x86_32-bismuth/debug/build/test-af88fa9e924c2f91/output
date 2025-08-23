@@ -1,0 +1,1 @@
+cargo:rustc-link-arg-bins=--script=/home/wmy/from/Bismuthos/apps/test/linker.ld

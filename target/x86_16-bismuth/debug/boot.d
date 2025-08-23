@@ -1,0 +1,1 @@
+/home/wmy/from/Bismuthos/target/x86_16-bismuth/debug/boot: /home/wmy/from/Bismuthos/boot/build.rs /home/wmy/from/Bismuthos/boot/src/boot.asm /home/wmy/from/Bismuthos/boot/src/disk.rs /home/wmy/from/Bismuthos/boot/src/main.rs

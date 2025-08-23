@@ -1,0 +1,1 @@
+/home/wmy/from/Bismuthos/target/x86_16-bismuth/debug/bootloader: /home/wmy/from/Bismuthos/bootloader/build.rs /home/wmy/from/Bismuthos/bootloader/src/disk.rs /home/wmy/from/Bismuthos/bootloader/src/gdt.rs /home/wmy/from/Bismuthos/bootloader/src/main.rs /home/wmy/from/Bismuthos/bootloader/src/print.rs
